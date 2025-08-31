@@ -42,7 +42,7 @@ export default function HomePage() {
           </Link>
         </div>
       </div>
-      <div className="work-skills py-5 relative before:content-[''] before:absolute before:w-full before:top-0 before:left-0 before:right-0 before:bg-white before:max-w-7xl before:h-full before:mx-auto">
+      <div className="work-skills hidden py-5 relative before:content-[''] before:absolute before:w-full before:top-0 before:left-0 before:right-0 before:bg-white before:max-w-7xl before:h-full before:mx-auto">
         <SwiperPortfolio />
       </div>
 
