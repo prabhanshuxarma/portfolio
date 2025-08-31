@@ -23,7 +23,7 @@ export default function HomePage() {
           Bridging Design & Development
         </h1>
         <p className="w-md-3/4 leading-loose font-light text-sm text-zinc-600">
-          <strong className="font-black">Prabhanshu Sharma</strong> – a passionate <strong>UI Designer & Developer</strong> with <strong>11+ years of experience</strong> crafting clean, modern, and responsive user interfaces. Proficient in <strong>HTML, CSS, SCSS, Bootstrap, Tailwind CSS, and JavaScript</strong>, with a strong eye for detail and design. Skilled in <strong>Figma</strong> and <strong>Photoshop</strong>, I specialize in transforming ideas into engaging, <strong>user-friendly digital experiences</strong>. Currently sharpening my expertise in <strong>React.js</strong> to build dynamic, interactive web applications.</p>
+          <strong className="font-bold">Prabhanshu Sharma</strong> – a passionate <strong>UI Designer & Developer</strong> with <strong>11+ years of experience</strong> crafting clean, modern, and responsive user interfaces. Proficient in <strong>HTML, CSS, SCSS, Bootstrap, Tailwind CSS, and JavaScript</strong>, with a strong eye for detail and design. Skilled in <strong>Figma</strong> and <strong>Photoshop</strong>, I specialize in transforming ideas into engaging, <strong>user-friendly digital experiences</strong>. Currently sharpening my expertise in <strong>React.js</strong> to build dynamic, interactive web applications.</p>
         <div className="flex gap-6 mt-6">
           <Link className="text-xl text-zinc-600 transition-all hover:text-dark" href="https://www.linkedin.com/in/prabhanshu-sharma/" target="_blank">
             <FaLinkedin />
